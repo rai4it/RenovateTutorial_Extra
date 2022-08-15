@@ -8,8 +8,8 @@
   "license": "Apache-2.0",
   "dependencies": {
     "commander": "2.20.3",
-    "lodash": "3.10.1",
-    "@date-io/date-fns": "2.10.0",
+    "lodash": "2.5.1",
+    "@date-io/date-fns": "1.1.0",
     "@date-io/moment": "2.10.0"
   }
 }
